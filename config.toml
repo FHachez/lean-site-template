@@ -1,4 +1,4 @@
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+baseURL = "https://fhachez.github.io/lean-site-template/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
@@ -14,18 +14,18 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "EA Brussels"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
+  fullTitle = "Effective Altruism Brussels"
   strapline = "Helping you do good better"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism <City Here>"
+  legalOrgName = "Effective Altruism Brussels"
   orgLocations = "this location and that location"
   contactEmail = "yourEAGroupEmail@here.com"
 
@@ -69,10 +69,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
+  firstButtonText = "Facebook Group"
+  firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
+  #secondButtonText = "Second Button Text"
+  #secondButtonLink = ""
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -80,6 +80,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  facebookUrl = "https://www.facebook.com/groups/387535228103244/"
+  #twitterUrl = ""
+  #meetupUrl = ""
