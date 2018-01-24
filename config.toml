@@ -27,7 +27,7 @@ DefaultContentLanguage = "en"
   [Languages.en.groupinfo]
   legalOrgName = "Effective Altruism Brussels"
   orgLocations = "this location and that location"
-  contactEmail = "nfo@eavlaanderen.org"
+  contactEmail = "info@eavlaanderen.org"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
