@@ -71,8 +71,8 @@ DefaultContentLanguage = "en"
   # Make sure the links start with http:// or https://
   firstButtonText = "Facebook Group"
   firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
-  #secondButtonText = "Second Button Text"
-  #secondButtonLink = ""
+  secondButtonText = "About EA"
+  secondButtonLink = "https://fhachez.github.io/lean-site-template/effective-altruism"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
