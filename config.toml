@@ -1,4 +1,4 @@
-baseURL = "https://fhachez.github.io/lean-site-template/"
+baseURL = "https://http://eabrussels.org//"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
@@ -27,7 +27,7 @@ DefaultContentLanguage = "en"
   [Languages.en.groupinfo]
   legalOrgName = "Effective Altruism Brussels"
   orgLocations = "this location and that location"
-  contactEmail = "info@eavlaanderen.org"
+  contactEmail = "info@@eabrussels.org"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
