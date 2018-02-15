@@ -72,7 +72,7 @@ DefaultContentLanguage = "en"
   firstButtonText = "Facebook Group"
   firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
   secondButtonText = "About EA"
-  secondButtonLink = "http://eabrussels.org/lean-site-template/effective-altruism"
+  secondButtonLink = "http://eabrussels.org/effective-altruism"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
