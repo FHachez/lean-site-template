@@ -10,7 +10,7 @@ draft: false
 #### Core Ideas
 **Effective altruism**: Effective altruism (EA) is the name of a growing social movement and an idea – based around using evidence and reason to find the most effective possible ways of doing good in the world. An effective altruist is someone who identifies with and tries to act according to the principles of Effective Altruism.
 
-**Cost-effectiveness**: The cost-effectiveness of a charitable intervention simply refer to how much good it does with a certain amount of resources. The cost-effectiveness of a donation to a charity typically refers to how much good the donation does *on the margin* e.g. if you donate $100 to a charity, how much *extra* impact will be produced.
+**Cost-effectiveness**: The cost-effectiveness of a charitable intervention simply refers to how much good it does with a certain amount of resources. The cost-effectiveness of a donation to a charity typically refers to how much good the donation does *on the margin* e.g. if you donate $100 to a charity, how much *extra* impact will be produced.
 
 **Impartiality**: Impartiality is the valuing of all lives equally, independent of location, age, gender, etc.
 
@@ -18,6 +18,7 @@ draft: false
 
 **Prioritization**: Cause areas can be evaluated in terms of their scale (how large is the problem and how much would it help to solve it), tractability (how easy is it to make progress) and neglectedness (how many resources are already dedicated to this problem) 
 .
+
 **Counterfactual reasoning**: Counterfactual reasoning looks at how much impact an action has relative to what would have happened otherwise. Your counterfactual impact would then be the amount of *extra* good done through your action.
 
 **Leveraging donations**: Sometimes, charitable donations can be leveraged to increase their effect. For example, instead of donating $1000 to charity, one might use the $1000 to hold a fundraiser event which results in the donation of more than $1000.
@@ -29,7 +30,7 @@ draft: false
 **Utilitarianism**: Utilitarianism is a particular consequentialist moral theory, which states that an act is good or bad according to the extent to which it increases happiness and decreases suffering. Other variants of utilitarianism, such as preference utilitarianism, seek to maximise the satisfaction of people's preferences, whether or not this leads to pleasure. 
 
 **Population ethics**: Population ethics asks questions such as whether it is better to bring about a larger total amount of happiness in the world (e.g. by having a higher population that is less happy) or a smaller population who are happier on average, and whether we ought to count causing new happy people to be born in the future as equally important as making people who currently exist happy.
-Population ethics is a source of significant disagreement among philosophers in general and effective altruists.
+Population ethics is a source of significant disagreement among philosophers in general as well as effective altruists.
 
 **Rationalism**: Rationalism is an approach to improving one's thinking and an associated community, interested in studying cognitive biases, statistics. 
 

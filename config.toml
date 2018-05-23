@@ -1,9 +1,13 @@
-baseURL = "eabrussels.org/"
+baseURL = "https://eabrussels.org/"
+# baseURL should be
+# "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
+# and "your-ea-domain.org/" after your domain has been set up.
 theme = "local-ea-template"
+canonifyURLs = true
 
 # If you are using multiple languages and want a different default,
 # you can change this language code. In this particular case,
-# baseURL will be th english site, and baseURL/<language code> will be the
+# baseURL will be the English site, and baseURL/<language code> will be the
 # other languages.
 DefaultContentLanguage = "en"
 
@@ -23,7 +27,6 @@ DefaultContentLanguage = "en"
   fullTitle = "Effective Altruism Brussels"
   strapline = "Helping you do good better"
 
-  ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
   legalOrgName = "Effective Altruism Brussels"
   orgLocations = "this location and that location"
@@ -44,7 +47,7 @@ DefaultContentLanguage = "en"
   contact= "Contact"
 
   [Languages.en.pages]
-  ## -- Page Headers -- ##
+  ## -- PAGE HEADERS -- ##
   contactPageHeader = "Contact us"
   aboutEAPageHeader = "What is Effective Altruism?"
 
@@ -58,6 +61,7 @@ DefaultContentLanguage = "en"
   bottomBannerText = "A proud member of the effective altruism network"
 
   [Languages.en.contactform]
+  ## -- CONTACT FORM -- ##
   leadText = "Say hi!"
   senderName = "Your name (required)"
   senderEmail = "Your email (required)"

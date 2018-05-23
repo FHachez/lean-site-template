@@ -35,7 +35,7 @@ DefaultContentLanguage = "en"
   contact= "Contact"
 
   [Languages.en.pages]
-  ## -- Page Headers -- ##
+  ## -- PAGES HEADERS-- ##
   aboutPageHeader = "About us"
   contactPageHeader = "Contact us"
   aboutEAPageHeader = "What is Effective Altruism?"
@@ -50,6 +50,7 @@ DefaultContentLanguage = "en"
   bottomBannerText = "A proud member of the effective altruism network"
 
   [Languages.en.contactform]
+    ## -- CONTACT FORM -- ##
   leadText = "Say hi!"
   senderName = "Your name (required)"
   senderEmail = "Your email (required)"
@@ -70,11 +71,11 @@ DefaultContentLanguage = "en"
   #twitterUrl = ""
   meetupUrl = "http://www.meetup.com/someEAMeetupGroup"
 
+
   [Languages.de]
   languageCode = "de"
   title = "Die beste EA Webseite"
   weight = 2
-
 
   [Languages.de.general]
   fullTitle = "EA ist das Beste"
