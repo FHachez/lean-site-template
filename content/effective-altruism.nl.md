@@ -1,6 +1,6 @@
 ---
 title: "Effective Altruism"
-date: 2018-12-28T15:58:29-08:00
+date: 2018-11-12T15:58:29-08:00
 draft: false
 type: "effective-altruism"
 ---
