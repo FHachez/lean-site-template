@@ -5,4 +5,4 @@ draft: false
 type: "contact"
 ---
 
-Dit is de contactpagina
+Ceci est la page de contact
