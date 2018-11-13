@@ -225,7 +225,7 @@ DefaultContentLanguage = "en"
   firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
   # secondButtonText = "Twitter"
   # secondButtonLink = "https://twitter.com/ea_vla"
-  meetupButtonText = "Newsletter"
+  meetupButtonText = "Meetup"
   meetupButtonLink = "https://www.meetup.com/Effective-Altruism-Brussels/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
