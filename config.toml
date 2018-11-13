@@ -88,3 +88,152 @@ DefaultContentLanguage = "en"
   facebookUrl = "https://www.facebook.com/groups/387535228103244/"
   #twitterUrl = ""
   meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
+  
+  [Languages.nl]
+  title = "EA Brussel"
+  weight = 2
+  languageCode = "nl"
+
+  [Languages.nl.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "Effectief Altruïsme Brussel"
+  strapline = "Beter worden in goed doen"
+
+  [Languages.nl.groupinfo]
+  ## -- EA GROUP INFO -- ##
+  legalOrgName = "Effectief Altruïsme Brussel"
+  orgLocations = "België"
+  contactEmail = "info@eabrussels.org"
+
+  [Languages.nl.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  # You probably don't need/want to change these,
+  # but if you do you'll also want to change the relevant .md file under the
+  # content folder so the copy corresponds with the header.
+  home = "Home"
+  # faq = "FAQ"
+  effectiveAltruism = "Effectief Altruïsme"
+  aboutEA = "Over EA Brussel"
+  # readingMaterial = "Leesmateriaal"
+  keyTerms = "Kernbegrippen"
+  organizations = "Organisaties"
+  contact= "Contact"
+
+  [Languages.nl.pages]
+  ## -- PAGE HEADERS -- ##
+  contactPageHeader = "Contacteer ons"
+  aboutEAPageHeader = "Wat is Effectief Altruïsme?"
+
+  [Languages.nl.homepage]
+   ## -- HOMEPAGE -- ##
+  topBannerText = "Wie zijn we?"
+  leadText = "We zijn mensen die je willen helpen met het antwoord op de vraag: hoe kun je beter goed doen?"
+  firstSectionHeader = "Beter worden in goed doen"
+  secondSectionHeader = "Een gemeenschap opbouwen"
+  thirdSectionHeader = "Betere manieren vinden om te helpen"
+  bottomBannerText = "Lid van het effectief altruïsme netwerk"
+
+  [Languages.nl.contactform]
+  ## -- CONTACT FORM -- ##
+  leadText = "Contacteer ons"
+  senderName = "Uw naam (verplicht)"
+  senderEmail = "Uw email (verplicht)"
+  emailSubject = "Onderwerp"
+  emailMessage = "Uw bericht"
+  send = "Verzenden"
+
+  [Languages.nl.jumbotron]
+  # These are the buttons right under the header that appears on the main page.
+  # You can use them to link to a mailing list or Facebook page.
+  # Make sure the links start with http:// or https://
+  firstButtonText = "Onze Facebook groep"
+  firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
+  # secondButtonText = "Volg ons op Twitter"
+  # secondButtonLink = "https://twitter.com/ea_vla"
+  meetupButtonText = "Vind ons op Meetup"
+  meetupButtonLink = "https://www.meetup.com/Effective-Altruism-Brussels/"
+  # Remove the # before the text to add the optional Meetup button
+  # meetupButtonText = "Find us on Meetup"
+
+  [Languages.nl.urls]
+  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+  # If your group does not have URLs for these, just add # before the line
+  # to remove the link from the site
+  facebookUrl = "https://www.facebook.com/groups/387535228103244/"
+  # twitterUrl = "https://twitter.com/ea_vla"
+  meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
+  
+  
+  [Languages.fr]
+  title = "AE Bruxelles"
+  weight = 2
+  languageCode = "fr"
+
+  [Languages.fr.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "Altruisme Efficace Bruxelles"
+  strapline = "Vous aide à faire le bien, mieux"
+
+  [Languages.fr.groupinfo]
+  ## -- EA GROUP INFO -- ##
+  legalOrgName = "Altruisme Efficace Belgique"
+  orgLocations = "Belgique"
+  contactEmail = "info@eabrussels.org"
+
+  [Languages.fr.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  # You probably don't need/want to change these,
+  # but if you do you'll also want to change the relevant .md file under the
+  # content folder so the copy corresponds with the header.
+  home = "Acceuil"
+  # faq = "FAQ"
+  effectiveAltruism = "Altruisme Efficace"
+  aboutEA = "À propos AE Bruxelles"
+  # readingMaterial = "Leesmateriaal"
+  keyTerms = "Mots clés"
+  organizations = "Organisations"
+  contact= "Contact"
+
+  [Languages.fr.pages]
+  ## -- PAGE HEADERS -- ##
+  contactPageHeader = "Contactez nous"
+  aboutEAPageHeader = "C'est quoi l'Altruisme Efficace?"
+
+  [Languages.fr.homepage]
+   ## -- HOMEPAGE -- ##
+  topBannerText = "Qui sommes nous?"
+  leadText = "Nous sommes un group de gens qui veulent vous aider à répondre à la question: comment puis-je faire le bien, mieux?"
+  firstSectionHeader = "Faire le bien, mieux"
+  secondSectionHeader = "Bâtir une communauté"
+  thirdSectionHeader = "Trouver de meilleures façons d'aider"
+  bottomBannerText = "Un groupe fièrement membre du réseau d’altruisme efficace"
+
+  [Languages.fr.contactform]
+  ## -- CONTACT FORM -- ##
+  leadText = "Dites Allô!"
+  senderName = "Votre nom (requis):"
+  senderEmail = "Votre courriel (requis):"
+  emailSubject = "Sujet"
+  emailMessage = "Votre message:"
+  send = "Envoyer"
+
+  [Languages.fr.jumbotron]
+  # These are the buttons right under the header that appears on the main page.
+  # You can use them to link to a mailing list or Facebook page.
+  # Make sure the links start with http:// or https://
+  firstButtonText = "Groupe Facebook"
+  firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
+  # secondButtonText = "Twitter"
+  # secondButtonLink = "https://twitter.com/ea_vla"
+  meetupButtonText = "Newsletter"
+  meetupButtonLink = "https://www.meetup.com/Effective-Altruism-Brussels/"
+  # Remove the # before the text to add the optional Meetup button
+  # meetupButtonText = "Find us on Meetup"
+
+  [Languages.fr.urls]
+  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+  # If your group does not have URLs for these, just add # before the line
+  # to remove the link from the site
+  facebookUrl = "https://www.facebook.com/groups/387535228103244/"
+  # twitterUrl = "https://twitter.com/ea_vla"
+  meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
