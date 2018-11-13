@@ -29,7 +29,7 @@ DefaultContentLanguage = "en"
 
   [Languages.en.groupinfo]
   legalOrgName = "Effective Altruism Brussels"
-  orgLocations = "this location and that location"
+  orgLocations = "Belgium"
   contactEmail = "info@eabrussels.org"
 
   [Languages.en.navbar]
@@ -78,7 +78,8 @@ DefaultContentLanguage = "en"
   secondButtonText = "About EA"
   secondButtonLink = "http://eabrussels.org/effective-altruism"
   # Remove the # before the text to add the optional Meetup button
-  # meetupButtonText = "Find us on Meetup"
+  meetupButtonText = "Find us on Meetup"
+  meetupButtonLink = "https://www.meetup.com/Effective-Altruism-Brussels/"
 
   [Languages.en.urls]
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
@@ -86,4 +87,4 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/387535228103244/"
   #twitterUrl = ""
-  #meetupUrl = ""
+  meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
