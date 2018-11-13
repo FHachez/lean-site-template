@@ -1,0 +1,33 @@
+## Kernbegrippen
+
+**Bevolkingsethiek** of populatie-ethiek: de moraalfilosofische studie hoe we het welzijn, de voorkeuren of belangen van voelende wezens moeten samenvoegen en optimaliseren wanneer onze keuzes invloed hebben op hoeveel en welke voelende wezens er bestaan. Tot de vragen in de bevolkingsethiek behoren: wat is de morele status van nog ongeboren leven? Is het totaal aantal personen met goede ervaringen moreel relevant, of doet enkel het gemiddelde geluksniveau ertoe? Bevolkingsethische problemen vormen belangrijke discussiepunten binnen de effectief-altruïsmebeweging.
+
+**Consequentialisme**: de overtuiging dat een goede handeling of keuze enkel bepaald wordt door de te verwachten gevolgen van die handeling en niet door bijvoorbeeld de morele regels of plichten die gevolgd moeten worden (deontologie) of het morele karakter van de persoon die de keuze maakt (deugdenethiek). De consequentialist gelooft dat de mate waarin een daad goed of slecht is uitsluitend afhangt van de mate waarin de gevolgen van die daad goed of slecht zijn. Utilitarisme is een bekende vorm van consequentialisme waarbij enkel de gevolgen op het vlak van welzijn of het vervullen van voorkeuren belangrijk zijn. De meeste – maar zeker niet alle – effectieve altruïsten zijn consequentialisten. Thomas Pogge, een ethicus en effectief altruïst, is hierop een vermeldenswaardige uitzondering. Hij onderschrijft een deontologisch ethisch systeem (d.w.z. een systeem waarin mensen de plicht hebben bepaalde dingen wel of niet te doen).
+
+**Doelonverschilligheid**: het kiezen tussen goede doelen enkel op basis van hoe het goede doel bijdraagt aan een betere wereld, waarbij je geen specifieke voorkeur hebt voor een bepaalde doelgroep.
+
+**Donaties opkrikken**: het versterken van donaties door ze in te zetten om meer donaties te verkrijgen. Zo kun je er bijvoorbeeld voor kiezen duizend euro niet te besteden aan een project van een goed doel, maar aan een fondsenwerver die op haar beurt meer dan tweeduizend euro inzamelt voor dat project. Of je kunt investeren in het promoten en uitbreiden van de effectief-altruïsmebeweging waardoor meerdere personen zich aansluiten en hogere bedragen gaan doneren aan effectievere goede doelen.
+
+**Donaties verdienen** (earning to give): de praktijk van het kiezen van een carrière op basis van het hoge salaris in plaats van de directe impact, om vervolgens een significant deel van dat salaris te doneren aan effectieve goede doelen. Donaties verdienen kan effectiever zijn dan direct werk, omdat geld flexibel is, omdat het onvervangbaar is (terwijl iemand anders vaak een baan met directe impact in jouw plaats zal doen als je ervoor kiest die baan zelf niet te doen) en omdat het mensen in staat stelt zich te specialiseren in wat ze het best kunnen. Veel effectieve altruïsten verdienen donaties.
+
+**Effectief altruïsme**: een groeiende sociale beweging die de rede en bewijs uit onderzoek gebruikt om de wereld zo veel mogelijk te verbeteren. Met wetenschappelijk bewijs en logica zoeken effectieve altruïsten naar de effectiefste manieren om goed te doen en anderen te helpen. Een effectief altruïst is iemand die zichzelf identificeert met en handelt naar het idee van effectief altruïsme.
+
+**Existentieel risico** (X-risk): het risico op een globale catastrofe die zo groot is dat het elk (intelligent of voelend) leven kan uitroeien, waardoor er geen toekomstige generaties meer geboren worden. Voorbeelden hiervan zijn ernstige klimaatverandering, pandemische infectieziektes, komeetinslagen, nucleaire oorlogsvoering en vijandige kunstmatige intelligentie.
+
+**Giftgelofte** (giving pledge): een eed of belofte om een significant deel van het eigen inkomen te doneren aan een goed doel. Leden van Giving What We Can beloven minstens tien procent van hun inkomen te doneren aan effectieve goede doelen om het leed van extreme armoede te verlichten. De organisatie The Life You Can Save heeft een soortgelijke eed.
+
+**Hypothetisch redeneren**: een manier van keuzes maken tussen bepaalde acties door te kijken naar de verwachte gevolgen van alle alternatieve mogelijke opties in plaats van enkel de gekozen optie. Via gerandomiseerde controleproeven met een interventiegroep en een controlegroep kun je, door te kijken naar de gevolgen bij de controlegroep, inschatten wat de gevolgen zijn in het geval je geen interventie onderneemt.
+
+**Kosteneffectiviteit**: de marginale (extra) impact per prijseenheid. Dit is de positieve impact die je als individu kunt realiseren per extra gedoneerde euro. Bijvoorbeeld: elke extra euro die je aan het Schistosomiasis Control Initiative doneert, betaalt voor ongeveer 1,8 ontwormingsbehandelingen.
+
+**Meta-EA**: het indirect leveren van een bijdrage aan een betere wereld door onderzoek te doen naar het vinden van de beste goede doelen en het uitbouwen en efficiënter maken van de effectief-altruïsmebeweging. Voorbeelden zijn onder andere het Centre for Effective Altruism en GiveWell.
+
+**Onpartijdigheid**: het gelijke waarde hechten aan alle voelende levens, onafhankelijk van uiterlijk (huidskleur, geslacht, soort), herkomst (land, cultuur), tijd (leeftijd, toekomst) en geaardheid (seksuele voorkeur).
+
+**Prioriteren**: het kiezen van de beste goede doelen op basis van omvang (hoe groot het probleem is dat we aanpakken), hanteerbaarheid (hoe makkelijk we het probleem kunnen aanpakken) en verwaarlozing (hoeveel anderen al werken aan het probleem).
+
+**Rationalisme**: rationalisme is de overtuiging dat de rede en ervaring of empirisch bewijs in plaats van bijvoorbeeld autoriteit, religieuze overtuigingen, buikgevoelens of emotionele reacties de basis moeten zijn voor daden en opinies. Rationaliteit staat voor: betrouwbaarheid van overtuigingen, effectiviteit van middelen en consistentie van doelen.
+
+**S-risico’s**: dystopische toekomstscenario’s met extreem veel permanent leed. Een voorbeeld zijn artificieel superintelligente machines die mensen, dieren, voelende computersimulaties en andere voelende wezens gebruiken als slaven met een negatief welzijn.
+
+**Utilitarisme**: een specifieke morele theorie binnen het consequentialisme, die stelt dat een daad goed of slecht is naar gelang die geluk vermeerdert en leed vermindert (of meer algemeen: utiliteit bevordert). De definitie van geluk en leed verschilt van stroming tot stroming binnen het utilitarisme. Preferentie-utilitaristen, bijvoorbeeld, definiëren geluk en leed respectievelijk als het vervullen of afwijzen van iemands verlangens en voorkeuren, of dit nu tot genot lijdt of niet. Veel effectieve altruïsten onderschrijven een vorm van utilitarisme.
