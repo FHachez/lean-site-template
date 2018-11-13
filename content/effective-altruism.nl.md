@@ -10,7 +10,7 @@ type: "effective-altruism"
 
 # Over Effectief Altruïsme Brussel
 
-Effectief Altruïsme Brussel is een lokale groep die onder Effectief Altruïsme België valt. EA België is een Belgische vereniging zonder winstoogmerk en de koepelorganisatie van alle Belgische effectief altruïsme groepen, waaronder EA Vlaanderen en EA KULeuven. 
+Effectief Altruïsme Brussel is een lokale groep die onder Effectief Altruïsme België valt. EA België is een Belgische vereniging zonder winstoogmerk en de koepelorganisatie van alle Belgische effectief altruïsme groepen, waaronder ook EA Vlaanderen en EA KULeuven. 
 Effectief altruïsme is een filosofie en mondiale sociale beweging die wetenschappelijk bewijs en rationeel-kritisch denken gebruikt om zoveel mogelijk goeds te doen en anderen te helpen. Effectief Altruïsme België vzw heeft als doel het promoten van effectief altruïsme in België door mensen en organisaties aan te moedigen en in staat te stellen zo effectief mogelijk goeds te doen.
 Effectief altruïsten proberen alle probleemgebieden en acties te overwegen en handelen dan op de manier die de grootste positieve impact teweegbrengt. Het is deze brede evidence-based benadering die effectief altruïsme onderscheidt van traditioneel altruïsme. Hoewel een substantieel deel van de effectief altruïsten zich richt op de non-profitsector, is de filosofie van effectief altruïsme veel breder toepasbaar, bijvoorbeeld door prioriteit te geven aan wetenschappelijke projecten, bedrijven en beleidsinitiatieven die naar verwachting de meeste levens redden en verbeteren.
 
