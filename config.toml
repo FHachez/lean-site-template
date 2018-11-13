@@ -176,7 +176,7 @@ DefaultContentLanguage = "en"
 
   [Languages.fr.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Altruisme Efficace Belgique"
+  legalOrgName = "Altruisme Efficace Bruxelles"
   orgLocations = "Belgique"
   contactEmail = "info@eabrussels.org"
 
