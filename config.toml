@@ -73,10 +73,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Facebook Group"
-  firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
-  secondButtonText = "About EA"
-  secondButtonLink = "http://eabrussels.org/effective-altruism"
+  firstButtonText = "Facebook Page"
+  firstButtonLink = "https://www.facebook.com/eabrussels"
+  secondButtonText = "Facebook Group"
+  secondButtonLink = "https://www.facebook.com/groups/387535228103244/"
   # Remove the # before the text to add the optional Meetup button
   meetupButtonText = "Find us on Meetup"
   meetupButtonLink = "https://www.meetup.com/Effective-Altruism-Brussels/"
@@ -85,7 +85,7 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = "https://www.facebook.com/groups/387535228103244/"
+  facebookUrl = "https://www.facebook.com/eabrussels"
   #twitterUrl = ""
   meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
   
@@ -146,10 +146,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Onze Facebook groep"
-  firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
-  secondButtonText = "Over EA Brussel"
-  secondButtonLink = "http://eabrussels.org/nl/effective-altruism"
+  firstButtonText = "Facebook Pagina"
+  firstButtonLink = "https://www.facebook.com/eabrussels"
+  secondButtonText = "Facebook Groep"
+  secondButtonLink = "https://www.facebook.com/groups/387535228103244/"
   meetupButtonText = "Vind ons op Meetup"
   meetupButtonLink = "https://www.meetup.com/Effective-Altruism-Brussels/"
   # Remove the # before the text to add the optional Meetup button
@@ -159,7 +159,7 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = "https://www.facebook.com/groups/387535228103244/"
+  facebookUrl = "https://www.facebook.com/eabrussels"
   # twitterUrl = "https://twitter.com/ea_vla"
   meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
   
@@ -221,10 +221,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Groupe Facebook"
-  firstButtonLink = "https://www.facebook.com/groups/387535228103244/"
-  secondButtonText = "À propos de nous"
-  secondButtonLink = "http://eabrussels.org/fr/effective-altruism"
+  firstButtonText = "Page Facebook"
+  firstButtonLink = "https://www.facebook.com/eabrussels"
+  secondButtonText = "Groupe Facebook"
+  secondButtonLink = "https://www.facebook.com/groups/387535228103244/"
   meetupButtonText = "Meetup"
   meetupButtonLink = "https://www.meetup.com/Effective-Altruism-Brussels/"
   # Remove the # before the text to add the optional Meetup button
@@ -234,6 +234,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = "https://www.facebook.com/groups/387535228103244/"
+  facebookUrl = "https://www.facebook.com/eabrussels"
   # twitterUrl = "https://twitter.com/ea_vla"
   meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
