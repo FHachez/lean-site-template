@@ -43,6 +43,36 @@ Then there are people’s best guesses about what specific actions are the most 
 - Reduce [carbon emissions](https://www.givingwhatwecan.org/research/charities-area/climate-change), or research geoengineering, in order to lower the risk of catastrophic climate change.
 - [Increasing support](https://centreforeffectivealtruism.org/) for effective altruism itself, in order to get more effective work on the areas listed above.
 
+####  I want to donate to effective charities in Belgium. Which charities are tax deductible?
+
+When you want to donate to charities that score highly on lists such as those of [GiveWell](givewell.org), [The Life You Can Save](thelifeyoucansave.org), [Animal Charity Evaluators](https://animalcharityevaluators.org) or organisations related to Effective Altruism it's often unclear if your donation is tax deductible in Belgium, since these organisations rarely have an office here.
+
+Thanks to Transnational Giving Europe this is possible. The condition is that the organisation in question has an office in Europe and is included in this network of TGE. For already 3 effective charities (Against Malaria Foundation, GiveDirectly and Schistosomiasis Control Initiative) you can make a tax-deductible donation, at a cost of 5%. You can do this by making the following deposit:  
+
+Account holder: Koning Boudewijnstichting, Brederodestraat 21 – 1000 Brussel
+Bank: bpost bank
+Address: Koloniënstraat (P28) – 1000 Brussel
+Bank account number: 000-0000004-04
+IBAN: BE10 0000 0000 0404
+BIC: BPOTBEB1
+
+With the structured message:
+“TGE – UK – Against Malaria Foundation”
+or
+“TGE – GB – GiveDirectly UK”
+or 
+“TGE – UK – Imperial College London” for Schistosomiasis Control Initiative  
+
+“A 5% contribution will be deducted from the grant to help TGE encourage and facilitate cross-border donations. The tax certificate that the Foundation will send you in February of each following year will mention the total amount of the donation.”
+
+For more information, please contact King Baudouin Foundation – Transnational Giving Europe on tge@kbs-frb.be or by telephone on 02/5490231. 
+
+Is your favourite charity not included in this network but do they have an office in Europe? Encourage that charity to take this administrative step itself so that more Belgians and Europeans can donate! We can provide you with information that can help convince them (a flyer of TGE and the administration to fill in), for this you can mail to info@eabrussels.org. 
+
+Have you been able to donate this way to another great charity than the ones described above? Please let us know and we will add them here. 
+
+We try to keep this list up to date, thanks to King Baudouin Foundation – Transnational Giving Europe. 
+
 ####  I think one of those approaches you listed won’t help people much, or would actually be harmful.
 
 OK, probably some others in the community will agree with you! If you have good reasons for thinking that and explain them, you’ll persuade people and help us do a better job of improving the world.
