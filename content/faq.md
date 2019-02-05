@@ -57,11 +57,11 @@ Thanks to Transnational Giving Europe this is possible. The condition is that th
 - BIC: BPOTBEB1
 
 With the structured message:
-- “TGE – UK – Against Malaria Foundation”
+“TGE – UK – Against Malaria Foundation”
 or
-- “TGE – GB – GiveDirectly UK”
+“TGE – GB – GiveDirectly UK”
 or 
-- “TGE – UK – Imperial College London” for Schistosomiasis Control Initiative  
+“TGE – UK – Imperial College London” for Schistosomiasis Control Initiative  
 
 “A 5% contribution will be deducted from the grant to help TGE encourage and facilitate cross-border donations. The tax certificate that the Foundation will send you in February of each following year will mention the total amount of the donation.”
 
