@@ -49,19 +49,19 @@ When you want to donate to charities that score highly on lists such as those of
 
 Thanks to Transnational Giving Europe this is possible. The condition is that the organisation in question has an office in Europe and is included in this network of TGE. For already 3 effective charities (Against Malaria Foundation, GiveDirectly and Schistosomiasis Control Initiative) you can make a tax-deductible donation, at a cost of 5%. You can do this by making the following deposit:  
 
-Account holder: Koning Boudewijnstichting, Brederodestraat 21 – 1000 Brussel
-Bank: bpost bank
-Address: Koloniënstraat (P28) – 1000 Brussel
-Bank account number: 000-0000004-04
-IBAN: BE10 0000 0000 0404
-BIC: BPOTBEB1
+- Account holder: Koning Boudewijnstichting, Brederodestraat 21 – 1000 Brussel
+- Bank: bpost bank
+- Address: Koloniënstraat (P28) – 1000 Brussel
+- Bank account number: 000-0000004-04
+- IBAN: BE10 0000 0000 0404
+- BIC: BPOTBEB1
 
 With the structured message:
-“TGE – UK – Against Malaria Foundation”
+- “TGE – UK – Against Malaria Foundation”
 or
-“TGE – GB – GiveDirectly UK”
+- “TGE – GB – GiveDirectly UK”
 or 
-“TGE – UK – Imperial College London” for Schistosomiasis Control Initiative  
+- “TGE – UK – Imperial College London” for Schistosomiasis Control Initiative  
 
 “A 5% contribution will be deducted from the grant to help TGE encourage and facilitate cross-border donations. The tax certificate that the Foundation will send you in February of each following year will mention the total amount of the donation.”
 
